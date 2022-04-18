@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\Экзамен\Книги\Книги\bin\Debug\Книги.exe.config
+C:\Users\user\Desktop\Экзамен\Книги\Книги\bin\Debug\Книги.exe
+C:\Users\user\Desktop\Экзамен\Книги\Книги\bin\Debug\Книги.pdb
+C:\Users\user\Desktop\Экзамен\Книги\Книги\obj\Debug\Книги.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Экзамен\Книги\Книги\obj\Debug\Книги.Form1.resources
+C:\Users\user\Desktop\Экзамен\Книги\Книги\obj\Debug\Книги.Properties.Resources.resources
+C:\Users\user\Desktop\Экзамен\Книги\Книги\obj\Debug\Книги.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Экзамен\Книги\Книги\obj\Debug\Книги.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Экзамен\Книги\Книги\obj\Debug\Книги.exe
+C:\Users\user\Desktop\Экзамен\Книги\Книги\obj\Debug\Книги.pdb
+C:\Users\user\Desktop\Экзамен\Книги\Книги\obj\Debug\Книги.Каталог2.resources
+C:\Users\user\Desktop\Экзамен\Книги\Книги\obj\Debug\Книги.Корзина.resources
+C:\Users\user\Desktop\Экзамен\Книги\Книги\obj\Debug\Книги.Каталог3.resources
